@@ -30,4 +30,5 @@ class Notes {
 	public static boolean doesRandomThings(int num, String word, char c) {
 		return true;
 	}
+	
 }
